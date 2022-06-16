@@ -1,0 +1,66 @@
+2022-06-14 23:04:17.0409 Info Message Template Auto Format enabled
+2022-06-14 23:04:17.0409 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-14 23:04:17.0829 Info Adding target FileTarget(Name=allfile)
+2022-06-14 23:04:17.0854 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error parsing layout aspnet-request-posted-body
+ ---> System.ArgumentException: LayoutRenderer symbol-name is unknown: 'aspnetrequestpostedbody'. Extension NLog.Web.AspNetCore not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2022-06-14 23:04:17.1378 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-14 23:04:17.1378 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-14 23:04:17.1562 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=61, FilePath=L:\Desktop\dghToolApi\RENAME_TO_PROJECT_NAMEApi\NLog.config
+2022-06-14 23:04:34.2181 Info Message Template Auto Format enabled
+2022-06-14 23:04:34.2252 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-14 23:04:34.2572 Info Adding target FileTarget(Name=allfile)
+2022-06-14 23:04:34.2572 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error parsing layout aspnet-request-posted-body
+ ---> System.ArgumentException: LayoutRenderer symbol-name is unknown: 'aspnetrequestpostedbody'. Extension NLog.Web.AspNetCore not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2022-06-14 23:04:34.2744 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-14 23:04:34.2744 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-14 23:04:34.2960 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=61, FilePath=L:\Desktop\dghToolApi\RENAME_TO_PROJECT_NAMEApi\NLog.config
+2022-06-14 23:07:00.5363 Info Message Template Auto Format enabled
+2022-06-14 23:07:00.5435 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-14 23:07:00.5698 Info Adding target FileTarget(Name=allfile)
+2022-06-14 23:07:00.5698 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error parsing layout aspnet-request-posted-body
+ ---> System.ArgumentException: LayoutRenderer symbol-name is unknown: 'aspnetrequestpostedbody'. Extension NLog.Web.AspNetCore not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2022-06-14 23:07:00.5843 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-14 23:07:00.5843 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-14 23:07:00.5843 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=61, FilePath=L:\Desktop\dghToolApi\RENAME_TO_PROJECT_NAMEApi\NLog.config
+2022-06-14 23:07:36.0322 Info Message Template Auto Format enabled
+2022-06-14 23:07:36.2302 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-14 23:07:36.2677 Info Adding target FileTarget(Name=allfile)
+2022-06-14 23:07:36.2677 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error parsing layout aspnet-request-posted-body
+ ---> System.ArgumentException: LayoutRenderer symbol-name is unknown: 'aspnetrequestpostedbody'. Extension NLog.Web.AspNetCore not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2022-06-14 23:07:36.3057 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-14 23:07:36.3057 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-14 23:07:36.3329 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=61, FilePath=L:\Desktop\dghToolApi\RENAME_TO_PROJECT_NAMEApi\NLog.config
+2022-06-14 23:16:30.3953 Info Message Template Auto Format enabled
+2022-06-14 23:16:30.4917 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-14 23:16:30.5917 Info Adding target FileTarget(Name=allfile)
+2022-06-14 23:16:30.5917 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error parsing layout aspnet-request-posted-body
+ ---> System.ArgumentException: LayoutRenderer symbol-name is unknown: 'aspnetrequestpostedbody'. Extension NLog.Web.AspNetCore not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2022-06-14 23:16:30.6715 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-14 23:16:30.6715 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-14 23:16:30.7248 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=61, FilePath=L:\Desktop\dghToolApi\RENAME_TO_PROJECT_NAMEApi\NLog.config
+2022-06-15 00:07:12.7421 Info Message Template Auto Format enabled
+2022-06-15 00:07:12.7903 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-15 00:07:12.8233 Info Adding target FileTarget(Name=allfile)
+2022-06-15 00:07:12.8233 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error parsing layout aspnet-request-posted-body
+ ---> System.ArgumentException: LayoutRenderer symbol-name is unknown: 'aspnetrequestpostedbody'. Extension NLog.Web.AspNetCore not included?
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(String typeName, ConfigurationItemFactory configurationItemFactory, Nullable`1 throwConfigExceptions)
+   --- End of inner exception stack trace ---
+2022-06-15 00:07:12.8703 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-15 00:07:12.8703 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-15 00:07:12.8873 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=61, FilePath=L:\Desktop\dghToolApi\RENAME_TO_PROJECT_NAME.Api\NLog.config

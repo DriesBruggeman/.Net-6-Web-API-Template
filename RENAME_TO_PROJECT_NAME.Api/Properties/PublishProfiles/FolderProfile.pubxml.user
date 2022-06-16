@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>L:\Desktop\qr-wallet-poc\QR-Wallet-API\QR-Wallet-API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-01-27T16:37:43.0475897Z;True|2022-01-27T16:04:40.7253430+01:00;True|2022-01-27T15:41:39.5075579+01:00;</History>
+  </PropertyGroup>
+</Project>

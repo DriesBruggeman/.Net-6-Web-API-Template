@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.19.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RENAME_TO_PROJECT_NAME.Data\RENAME_TO_PROJECT_NAME.Data.csproj" />
+    <ProjectReference Include="..\RENAME_TO_PROJECT_NAME.Exceptions\RENAME_TO_PROJECT_NAME.Exceptions.csproj" />
+    <ProjectReference Include="..\RENAME_TO_PROJECT_NAME.Models\RENAME_TO_PROJECT_NAME.Models.csproj" />
+    <ProjectReference Include="..\RENAME_TO_PROJECT_NAME.Services\RENAME_TO_PROJECT_NAME.Services.csproj" />
+    <ProjectReference Include="..\RENAME_TO_PROJECT_NAME.Exceptions\RENAME_TO_PROJECT_NAME.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>
